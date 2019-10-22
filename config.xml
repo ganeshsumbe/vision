@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <ExcelFiles>
+    <file key="weekTrafficData" value="D:\FS_Automation\week_traffic_data_bsq.xlsx">
+	<file key="AOIHour" value="D:\FS_Automation\aoi_hour.xlsx"/>
+	<file key="AOIDayTimeDwell" value="D:\FS_Automation\aoi_day_time_dwell.xlsx"/>
+  </ExcelFiles>
+</configuration>
