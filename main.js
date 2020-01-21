@@ -398,7 +398,7 @@ module.exports = "\r\n@media only screen and ( max-width:768px ){\r\n  div{\r\n 
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div > \n    <footer>   \n      <p>©2019 Vision IT Solutions</p>\n      </footer>\n  </div>"
+module.exports = "<div > \n    <footer>   \n      <p>©2020 Ganesh</p>\n      </footer>\n  </div>"
 
 /***/ }),
 
